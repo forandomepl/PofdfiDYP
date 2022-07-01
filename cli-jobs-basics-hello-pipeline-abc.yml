@@ -9,7 +9,6 @@ on:
       - sdk-preview
     paths:
       - cli/jobs/basics/**
-      - .github/workflows/cli-jobs-basics-hello-pipeline-abc.yml
       - cli/setup.sh
 jobs:
   build:
